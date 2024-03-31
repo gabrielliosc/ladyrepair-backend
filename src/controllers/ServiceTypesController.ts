@@ -5,7 +5,7 @@ class ServiceTypesController{
         //Cria tipo de serviço
     }
     index(){
-        //Retornar informações de todos os serviços cadastrados agrupados
+        //Retornar informações de todos os tipos cadastrados agrupados
     }
 }
 
