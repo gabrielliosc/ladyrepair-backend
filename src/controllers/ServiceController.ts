@@ -1,4 +1,4 @@
-import { Service } from "../interfaces/client.ts"
+import { Service } from "../interfaces/tables.ts"
 
 class ServiceController{
     create(req: Service, res: Response){

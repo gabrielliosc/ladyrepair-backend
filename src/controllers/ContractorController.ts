@@ -1,4 +1,4 @@
-import { Contractor } from "../interfaces/client.ts"
+import { Contractor } from "../interfaces/tables.ts"
 
 class ContractorController{
     create(req: Contractor, res: Response){

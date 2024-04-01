@@ -1,4 +1,4 @@
-import { Quotation } from "../interfaces/client.ts"
+import { Quotation } from "../interfaces/tables.ts"
 
 class QuotationController{
     create(req: Quotation, res: Response){

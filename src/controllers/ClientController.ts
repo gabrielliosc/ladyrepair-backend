@@ -1,4 +1,4 @@
-import { Client } from "../interfaces/client.ts"
+import { Client } from "../interfaces/tables.ts"
 
 class ClientController {
     create(req: Client, res: Response){
